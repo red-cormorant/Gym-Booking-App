@@ -15,7 +15,7 @@ HOW TO USE THIS APP:
 
 FEATURES:
 - client can login or register in order to use the app
-- client can see the his events with invitations received from personal trainers and delete his invitation from event with no possibility to modify it.
+- client can see his events with invitations received from personal trainers and delete his invitation from event with no possibility to modify it.
 - client can book multiple time intervals for a individual training
 - client can modify personal info like name, telephone, e-mail.
 
@@ -23,5 +23,13 @@ FEATURES:
 - personal trainer can modify personal info.
 
 
-#### Main Menu for Client:
+#### Main menu for client:
 ![Main Menu for Client](https://github.com/red-cormorant/Gym-Booking-App/blob/master/screenshots/main_menu_for_client.PNG)
+
+![Main Menu for Client](https://github.com/red-cormorant/Gym-Booking-App/blob/master/screenshots/main_menu_for_client2.PNG)
+
+#### Personal trainer menu for events:
+![instructor menu](https://github.com/red-cormorant/Gym-Booking-App/blob/master/screenshots/instructor_event.PNG)
+
+#### Client menu for events:
+![client menu](https://github.com/red-cormorant/Gym-Booking-App/blob/master/screenshots/client_event.PNG)
