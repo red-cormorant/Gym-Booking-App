@@ -22,4 +22,4 @@ FEATURES:
 - personal trainer can create an event, invite clients, modify fields.
 - personal trainer can modify personal info.
 
-![Main Menu for Client](/screenshots/main_menu_for_client.png)
+![Main Menu for Client](https://github.com/red-cormorant/Gym-Booking-App/blob/master/screenshots/main_menu_for_client.PNG)
