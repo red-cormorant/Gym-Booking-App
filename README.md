@@ -2,6 +2,8 @@
 GUI for a gym to manage bookings more easily. It can be used as a client or as a personal trainer. A personal trainer may create an event and invite his desired clients for
 individual training or cadio/aerobic sessions.
 
+This app was designed using MVC arhitecture
+
 REQUIREMENTS: 
 - XAMPP, IntelliJ Idea IDE, Java 13
 
