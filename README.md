@@ -18,6 +18,7 @@ HOW TO USE THIS APP:
 FEATURES:
 - client can login or register in order to use the app
 - client can see his events with invitations received from personal trainers and delete his invitation from event with no possibility to modify it.
+- notifications at every login for events that are starting in a certain time.  
 - client can book multiple time intervals for a individual training
 - client can modify personal info like name, telephone, e-mail.
 
